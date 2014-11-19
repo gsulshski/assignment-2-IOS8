@@ -22,7 +22,8 @@
 
 + (NSArray *)validSuits
 {
-    return @[@"♥︎",@"♦︎",@"♠︎",@"♣︎"];
+   // return @[@"♥︎",@"♦︎",@"♠︎",@"♣︎"];
+    return @[@"♥",@"♦",@"♠",@"♣"];
 }
 
 + (NSArray *)rankStrings
